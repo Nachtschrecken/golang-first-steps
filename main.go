@@ -1,7 +1,7 @@
 /*
 // Freecodecamp GoLang
 // Credits: Ferris Kleier
-// Date: 08/14/2020
+// Date: 2020/08/14
 */
 
 package main
